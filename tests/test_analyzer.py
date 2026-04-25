@@ -5,7 +5,7 @@
 import pytest
 import pandas as pd
 
-from src.core.analyzer import StudyAnalyzer
+from src.core.analyzer import StudyAnalyzer, SUBJECTS
 # Path to dataset
 DATA_PATH = "data/student_study_tracker.xlsx"
 
