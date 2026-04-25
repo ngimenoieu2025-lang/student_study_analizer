@@ -29,11 +29,15 @@ This project was developed as part of a programming course group assignment.
 
 Make sure you have Python 3.10 or newer.
 
+Clone the repository and install the required dependencies:
+
 ```bash
 git clone https://github.com/ngimenoieu2025-lang/student_study_analizer.git
 cd student_study_analyzer
 python -m pip install -r requirements.txt
 ```
+
+This step is required before running the project.
 
 ---
 
