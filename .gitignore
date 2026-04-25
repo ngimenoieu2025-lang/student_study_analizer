@@ -1,0 +1,16 @@
+# Python cache
+__pycache__/
+*.pyc
+
+# Virtual environments
+venv/
+.env/
+
+# VSCode settings
+.vscode/
+
+# OS files
+.DS_Store
+
+# Excel temp files
+~$*.xlsx
